@@ -1,20 +1,20 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "Glory to Heaven",
-  hybridpass: "Copy Hybrid Password Generated from Backend",
+  siteName: "MyflixTV",
+  hybridpass: "$2b$10$biJg0dpQCcbI8J/a8otHKOvojL7bxKbduR40X6UZhj/H9JansWft6",
   version: "8.2.8",
-  frontendUrl: "https://glorytoheaven.tk",
-  github_name: "tks18",
+  frontendUrl: "https://myflix.dkc.workers.dev",
+  github_name: "denistravis",
   github_repo: "gindex-v4",
   favicon: "https://raw.githubusercontent.com/tks18/infozy/develop/favicon.ico",
-  client_id: "client_id",
-  backendSite: "http://localhost:3000",
-  client_secret: "client_id",
-  refresh_token: "refresh_token",
+  client_id: "472938255311-fbjdr8nl1v9dfqlum44oa9lru7vkr5qf.apps.googleusercontent.com",
+  backendSite: "https://myflix-backend.herokuapp.com",
+  client_secret: "2phmJDMFAbjE5aasxqnoAtKd",
+  refresh_token: "1//03YLZ3PoxXof0CgYIARAAGAMSNwF-L9Ir9zhYmgJaTF97aXBG31kxUXmzcjBhUGEixGAIsV4xrFYDR25tKObpGBUJRbdCybe5Iow",
   roots: [
     {
-      id: "folder_id",
-      name: "Glory to Heaven",
+      id: "1i588iYPNbzmNfufJCFCIENR-VUu5woNx",
+      name: "Myflixtv",
       protect_file_link: true,
     }
   ],
